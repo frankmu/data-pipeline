@@ -32,3 +32,6 @@ test-output
 
 #nodejs
 node_modules
+
+#data set
+data-set
