@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "simple web app to visualize data",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "jquery": "^3.1.0",
     "minimist": "^1.2.3",
     "redis": "^2.6.2",
