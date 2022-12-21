@@ -7,7 +7,7 @@
     "jquery": "^3.1.0",
     "minimist": "^1.2.3",
     "redis": "^2.6.2",
-    "smoothie": "^1.27.0",
+    "smoothie": "^1.36.1",
     "socket.io": "^1.4.8"
   }
 }
